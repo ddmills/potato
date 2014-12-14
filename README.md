@@ -3,11 +3,11 @@
 ### Workspace
 It's a little difficult to explain how to setup. However - once it's up and running it's simple to work with. You'll need:
 
-*Eclipse
-*Spring Tool Suite (you can get as an eclipse plugin, or you can download the entire version of eclipse dedicated to it)
-*Apache Tomcat 7 (http://tomcat.apache.org/download-70.cgi)
-*Ivy (eclipse plugin)
-*Github (eclipse plugin)
+* Eclipse
+* Spring Tool Suite (you can get as an eclipse plugin, or you can download the entire version of eclipse dedicated to it)
+* Apache Tomcat 7 (http://tomcat.apache.org/download-70.cgi)
+* Ivy (eclipse plugin)
+* Github (eclipse plugin)
 
 ### Clone Repo in Eclipse
 After those are all installed, you'll prolly need to restart eclipse. Fork the repository: https://github.com/ddmills/potato. Once you have those things installed and working, go to
